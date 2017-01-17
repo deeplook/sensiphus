@@ -16,7 +16,7 @@ and databases, as well as remote HTTP, MQTT and ZMQ.
 Supported hardware devices consist of a 
 `Raspberry Pi Sense HAT <https://www.raspberrypi.org/products/sense-hat>`_
 and a
-`https://shop.pimoroni.com/products/enviro-phat <Pimoroni Enviro-pHAT>`_.
+`Pimoroni Enviro-pHAT <https://shop.pimoroni.com/products/enviro-phat>`_.
 Both can be mocked and provide some fake time series data.
 
 The command-line interface supports specifying one scheduler, one device,
