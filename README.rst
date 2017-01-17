@@ -13,9 +13,11 @@ be purely virtual ones like software running on some computing device.
 Supported destinations include stdout on the command-line, CSV files
 and databases, as well as remote HTTP, MQTT and ZMQ.
 
-Supported hardware devices consist of a Raspberry Pi Sense HAT and a
-Pimoroni Enviro-pAHT. Both can be mocked and provide some fake time
-series data.
+Supported hardware devices consist of a 
+`Raspberry Pi Sense HAT <https://www.raspberrypi.org/products/sense-hat>`
+and a
+`https://shop.pimoroni.com/products/enviro-phat <Pimoroni Enviro-pHAT>`.
+Both can be mocked and provide some fake time series data.
 
 The command-line interface supports specifying one scheduler, one device,
 and one exporter. More complex configurations can be specified in the
